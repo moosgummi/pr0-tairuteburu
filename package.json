@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "pr0-tairuteburu",
+  "version": "0.1.2",
+  "main": "app/index.html",
+  "window": {
+    "toolbar": false,
+    "width": 600,
+    "height": 220,
+    "min_width": 600,
+    "min_height": 220,
+    "max_width": 600,
+    "max_height": 570
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.0.0-rc3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.2",
+    "node-webkit-builder": "^1.0.8"
+  }
+}
